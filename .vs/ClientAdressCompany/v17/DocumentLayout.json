@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\services\\client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\services\\client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\services\\address.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\services\\address.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8443EB-DFD9-42B0-8F23-9CF0D67CC4CD}|clientadresscompany.client\\clientadresscompany.client.esproj|solutionrelative:clientadresscompany.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|c:\\users\\jhon1\\source\\repos\\clientadresscompany\\clientadresscompany.server\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0623F739-058B-43FF-8FE2-30A096B1B6C2}|ClientAdressCompany.Server\\ClientAdressCompany.Server.csproj|solutionrelative:clientadresscompany.server\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clientadresscompany.client\\src\\app\\client\\client.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clientadresscompany.client\\src\\app\\client\\client.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T02:46:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\proxy.conf.json",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\proxy.conf.json",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\proxy.conf.json",
+              "RelativeToolTip": "clientadresscompany.client\\src\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T02:46:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T21:35:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\main.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T21:31:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "clientadresscompany.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T21:27:41.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T21:22:59.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-25T21:22:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "address.service.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\services\\address.service.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\services\\address.service.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\services\\address.service.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\services\\address.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T21:00:29.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "client.service.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\services\\client.service.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\services\\client.service.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\services\\client.service.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\services\\client.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T20:59:51.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "client.component.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\client\\client.component.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\client\\client.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T20:59:41.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\appsettings.json",
+              "RelativeToolTip": "ClientAdressCompany.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T18:33:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Program.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:47:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-25T21:35:37.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "client.component.html",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.html",
+              "RelativeDocumentMoniker": "clientadresscompany.client\\src\\app\\client\\client.component.html",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\src\\app\\client\\client.component.html",
+              "RelativeToolTip": "clientadresscompany.client\\src\\app\\client\\client.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-25T20:37:25.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:00:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:58:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Data\\ContextDB.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Data\\ContextDB.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Data\\ContextDB.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Data\\ContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:45:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Models\\Address.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:40:01.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ClientAdressCompany.Server\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\ClientAdressCompany.Server\\Models\\Client.cs",
+              "RelativeToolTip": "ClientAdressCompany.Server\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:39:13.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

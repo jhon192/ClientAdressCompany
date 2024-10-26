@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "CAWMP/wj8ZDLbqs6Fq5h7lazTRmfsXB/bHnYhx+ZYgQ=",
+  "Source": "ClientAdressCompany.Server",
+  "BasePath": "_content/ClientAdressCompany.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jhon1\\source\\repos\\ClientAdressCompany\\clientadresscompany.client\\clientadresscompany.client.esproj",
+      "Version": 2,
+      "Source": "clientadresscompany.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
