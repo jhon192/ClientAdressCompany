@@ -11,7 +11,7 @@ Este proyecto es una solución fullstack para gestionar clientes y sus direccion
 
 ## Requisitos Previos
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Node.js y npm](https://nodejs.org/) (para el frontend)
 - [Angular CLI](https://angular.io/cli) - `npm install -g @angular/cli`
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) o cualquier base de datos compatible
