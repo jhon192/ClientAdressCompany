@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CAWMP/wj8ZDLbqs6Fq5h7lazTRmfsXB/bHnYhx+ZYgQ=",
+  "Hash": "6NETvLIeGOiIlT4vJgXSeteu8l0p8xN12fHrWZffhV4=",
   "Source": "ClientAdressCompany.Server",
   "BasePath": "_content/ClientAdressCompany.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "clientadresscompany.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],

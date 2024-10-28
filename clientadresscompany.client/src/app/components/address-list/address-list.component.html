@@ -1,8 +1,8 @@
-<div class="p-6 bg-white rounded-lg shadow-md">
-    <div class="flex justify-around items-center">
+<div class="py-6 px-3 bg-white rounded-lg shadow-md">
+    <div class="flex justify-around">
       <h2 class="text-2xl font-bold mb-4">Lista de Direcciones</h2>
-      <button (click)="createAddress()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold  px-4 rounded">
-        Agregar Dirección
+      <button (click)="createAddress()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 p-4 rounded">
+        <li class="fa fa-plus mx-3 font-bold"></li>Agregar Dirección
       </button>
     </div>
 
@@ -11,25 +11,25 @@
     <table class="min-w-full bg-white border border-gray-300">
       <thead>
         <tr class="bg-gray-100">
-          <th class="py-2 px-4 border-b">Calle</th>
-          <th class="py-2 px-4 border-b">Ciudad</th>
-          <th class="py-2 px-4 border-b">Estado</th>
-          <th class="py-2 px-4 border-b">Código Postal</th>
-          <th class="py-2 px-4 border-b">Acciones</th>
+          <th class="px-6 py-4 text-center">Calle</th>
+          <th class="px-6 py-4 text-center">Ciudad</th>
+          <th class="px-6 py-4 text-center">Estado</th>
+          <th class="px-6 py-4 text-center">Código Postal</th>
+          <th class="px-6 py-4 text-center">Acciones</th>
         </tr>
       </thead>
       <tbody>
         <tr *ngFor="let address of addresses" class="hover:bg-gray-50">
-          <td class="py-2 px-4 border-b">{{ address.street }}</td>
-          <td class="py-2 px-4 border-b">{{ address.city }}</td>
-          <td class="py-2 px-4 border-b">{{ address.state }}</td>
-          <td class="py-2 px-4 border-b">{{ address.zipCode }}</td>
-          <td class="py-2 px-4 border-b space-x-2">
-            <button (click)="editAddress(address.id)" class="text-green-600 hover:underline">
-              Editar
+          <td class="px-6 py-4 text-center">{{ address.street }}</td>
+          <td class="px-6 py-4 text-center">{{ address.city }}</td>
+          <td class="px-6 py-4 text-center">{{ address.state }}</td>
+          <td class="px-6 py-4 text-center">{{ address.zipCode }}</td>
+          <td class="px-6 py-4 text-center space-x-2">
+            <button (click)="editAddress(address.id)" class="bg-yellow-600 rounded-md hover:underline mx-3">
+              <li class="fa fa-pen text-white p-2"></li>
             </button>
-            <button (click)="deleteAddress(address.id)" class="text-red-600 hover:underline">
-              Eliminar
+            <button (click)="deleteAddress(address.id)" class="bg-red-600 rounded-md hover:underline mx-3">
+              <li class="fa fa-trash text-white p-2"></li>
             </button>
           </td>
         </tr>
