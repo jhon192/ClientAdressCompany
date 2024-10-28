@@ -262,3 +262,4 @@ C:\Users\jhon1\source\repos\ClientAdressCompany\ClientAdressCompany.Server\bin\D
 C:\Users\jhon1\source\repos\ClientAdressCompany\ClientAdressCompany.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\jhon1\source\repos\ClientAdressCompany\ClientAdressCompany.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\jhon1\source\repos\ClientAdressCompany\ClientAdressCompany.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jhon1\source\repos\ClientAdressCompany\ClientAdressCompany.Server\obj\Debug\net8.0\ClientAdressCompany.Server.sourcelink.json

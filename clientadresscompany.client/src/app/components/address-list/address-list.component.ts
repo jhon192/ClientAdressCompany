@@ -45,7 +45,7 @@ export class AddressListComponent {
   }
 
   deleteAddress(addressId: number): void {
-    this.http.delete(`/api/clients/${this.clientId}/addresses/${addressId}`).subscribe(
+    this.http.delete(`/api/addresses/${addressId}`).subscribe(
       () => {
         this.addresses = this.addresses.filter(address => address.id !== addressId);
         console.log('Dirección eliminada correctamente');
